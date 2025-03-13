@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "85f3",
+      "id": "a562",
       "personal": {
         "firstName": "",
         "lastName": "",
@@ -9,12 +9,12 @@
         "phoneNumber": ""
       },
       "address": {
-        "houseNo": "gyt",
-        "street": "gvgi",
-        "landmark": "hbhci",
-        "city": "hyd",
+        "houseNo": "12345",
+        "street": "123456",
+        "landmark": "dfghjk",
+        "city": "fghjkl",
         "state": "telangana",
-        "zipCode": "500087",
+        "zipCode": "2345",
         "country": "india"
       },
       "credentials": {
@@ -24,7 +24,7 @@
       }
     },
     {
-      "id": "bb10",
+      "id": "b875",
       "personal": {
         "firstName": "",
         "lastName": "",
@@ -32,41 +32,18 @@
         "phoneNumber": ""
       },
       "address": {
-        "houseNo": "sdfghjk",
-        "street": "vbnm,",
-        "landmark": "xcvbnm",
+        "houseNo": "2wertyui",
+        "street": "wefg",
+        "landmark": "werfg",
         "city": "hyd",
         "state": "telangana",
         "zipCode": "500087",
         "country": "india"
       },
       "credentials": {
-        "username": "123",
-        "password": "123",
-        "confirmPassword": "123"
-      }
-    },
-    {
-      "id": "991c",
-      "personal": {
-        "firstName": "",
-        "lastName": "",
-        "dob": "",
-        "phoneNumber": ""
-      },
-      "address": {
-        "houseNo": "dfghjkl",
-        "street": "xcgvbnm,",
-        "landmark": "xcvbnm,",
-        "city": "hyd",
-        "state": "telangana",
-        "zipCode": "500087",
-        "country": "india"
-      },
-      "credentials": {
-        "username": "tanu@123",
-        "password": "123",
-        "confirmPassword": "123"
+        "username": "abcd",
+        "password": "12345",
+        "confirmPassword": "12345"
       }
     }
   ]
