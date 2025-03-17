@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "a562",
+      "id": "981b",
       "personal": {
         "firstName": "",
         "lastName": "",
@@ -9,41 +9,18 @@
         "phoneNumber": ""
       },
       "address": {
-        "houseNo": "12345",
-        "street": "123456",
-        "landmark": "dfghjk",
-        "city": "fghjkl",
-        "state": "telangana",
-        "zipCode": "2345",
-        "country": "india"
-      },
-      "credentials": {
-        "username": "123",
-        "password": "123",
-        "confirmPassword": "123"
-      }
-    },
-    {
-      "id": "b875",
-      "personal": {
-        "firstName": "",
-        "lastName": "",
-        "dob": "",
-        "phoneNumber": ""
-      },
-      "address": {
-        "houseNo": "2wertyui",
-        "street": "wefg",
-        "landmark": "werfg",
+        "houseNo": "asdfghj",
+        "street": "sdfghjk",
+        "landmark": "sdfghjk",
         "city": "hyd",
         "state": "telangana",
         "zipCode": "500087",
         "country": "india"
       },
       "credentials": {
-        "username": "abcd",
-        "password": "12345",
-        "confirmPassword": "12345"
+        "username": "gayatrivvns@gmail.com",
+        "password": "123",
+        "confirmPassword": "123"
       }
     }
   ]
